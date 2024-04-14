@@ -1,0 +1,14 @@
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\bin\Debug\ManageCafe.exe.config
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\bin\Debug\ManageCafe.exe
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\bin\Debug\ManageCafe.pdb
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.AssemblyReference.cache
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.ResolveComReference.cache
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fAccountProfile.resources
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fAdmin.resources
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fLogin.resources
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fTableManage.resources
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.Properties.Resources.resources
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.GenerateResource.cache
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.CoreCompileInputs.cache
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.exe
+D:\Study\Project\ManagerCoffeLTTQ2\ManageCafe\ManageCafe\obj\Debug\ManageCafe.pdb
